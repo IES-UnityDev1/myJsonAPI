@@ -6,12 +6,12 @@
         "hijos": [
             {
                 "nombre": "DIAMANTE",
-                "valor": "1.020,05",
+                "valor": "20.020,05",
                 "id": "1ABCDEF"
             },
             {
                 "nombre": "ORO",
-                "valor": "1.025,02",
+                "valor": "100.025,02",
                 "id": "2HIJKMNL"
             }
         ]
