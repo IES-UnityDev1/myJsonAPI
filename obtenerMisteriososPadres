@@ -1,0 +1,19 @@
+[
+    {
+        "idPadre": "2",
+        "nombrePadre": "DISEÑO MISTERY",
+        "moneda": "COP",
+        "hijos": [
+            {
+                "nombre": "DIAMANTE",
+                "valor": "1.020,05",
+                "id": "1ABCDEF"
+            },
+            {
+                "nombre": "ORO",
+                "valor": "50,02",
+                "id": "2HIJKMNL"
+            }
+        ]
+    }
+]
