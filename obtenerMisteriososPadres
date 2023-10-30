@@ -15,5 +15,22 @@
                 "id": "2HIJKMNL"
             }
         ]
+    },
+    {
+        "idPadre": "1",
+        "nombrePadre": "PRUEBAS MISTERIOSO 2.0",
+        "moneda": "USD",
+        "hijos": [
+            {
+                "nombre": "Mayor",
+                "valor": "1.020,05",
+                "id": "1ABCDEF"
+            },
+            {
+                "nombre": "Menor",
+                "valor": "50,02",
+                "id": "2HIJKMNL"
+            }
+        ]
     }
 ]
