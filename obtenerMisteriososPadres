@@ -15,5 +15,27 @@
                 "id": "2HIJKMNL"
             }
         ]
+    },
+    {
+        "idPadre": "1",
+        "nombrePadre": "PRUEBAS MISTERIOSO",
+        "moneda": "USD",
+        "hijos": [
+            {
+                "nombre": "ORITO",
+                "valor": "93.230,82",
+                "id": "4GYIKSNE"
+            },
+            {
+                "nombre": "PLATITO",
+                "valor": "4.100,18",
+                "id": "1GYIKSNE"
+            },
+            {
+                "nombre": "BRONCITO",
+                "valor": "71,94",
+                "id": "2KOPLMJU"
+            }
+        ]
     }
 ]
