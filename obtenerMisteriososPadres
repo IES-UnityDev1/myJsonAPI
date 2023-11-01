@@ -15,27 +15,5 @@
             "id":"2HIJKMNL"
          }
       ]
-   },
-   {
-      "idPadre":"32",
-      "nombrePadre":"PRUEBAS MISTERIOSO 2.0",
-      "moneda":"USD",
-      "hijos":[
-         {
-            "nombre":"PREMIO DIAMANTE",
-            "valor":"356.781,02",
-            "id":"1ABGDEV"
-         },
-         {
-            "nombre":"PREMIO PLATINO",
-            "valor":"43.590,24",
-            "id":"2CIPKKNL"
-         },
-         {
-            "nombre":"PREMIO ORO",
-            "valor":"2.568,51",
-            "id":"4OIJKMPU"
-         }
-      ]
    }
 ]
