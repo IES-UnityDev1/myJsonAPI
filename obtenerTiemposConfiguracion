@@ -1,6 +1,6 @@
 {
     "cantidadSecuenciaAnimacion": 1,
-    "tiempoSincronizacionHijos": 20000,
-    "tiempoParaAnimacion": 3000,
-    "tiempoEntrePadres": 10000    
+    "tiempoSincronizacionHijos": 2000,
+    "tiempoParaAnimacion": 30000,
+    "tiempoEntrePadres": 30000    
 }
