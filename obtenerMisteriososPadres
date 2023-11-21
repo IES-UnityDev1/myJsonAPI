@@ -6,7 +6,7 @@
       "hijos":[
          {
             "nombre":"DIAMANTE",
-            "valor":"1.902.401,14",
+            "valor":"1.902.412,24",
             "id":"1ABCDEF"
          },
          {
@@ -23,17 +23,17 @@
       "hijos":[
          {
             "nombre":"PREMIO DIAMANTE",
-            "valor":"351.122,57",
+            "valor":"351.522,57",
             "id":"1ABGDEV"
          },
          {
             "nombre":"PREMIO PLATINO",
-            "valor":"43.621,75",
+            "valor":"53.621,75",
             "id":"2CIPKKNL"
          },
          {
             "nombre":"PREMIO ORO",
-            "valor":"2.671,12",
+            "valor":"3.671,12",
             "id":"4OIJKMPU"
          }
       ]
