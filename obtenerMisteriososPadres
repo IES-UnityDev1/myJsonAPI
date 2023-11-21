@@ -6,12 +6,12 @@
       "hijos":[
          {
             "nombre":"DIAMANTE",
-            "valor":"1.900.232,14",
+            "valor":"1.902.333,14",
             "id":"1ABCDEF"
          },
          {
             "nombre":"ORO",
-            "valor":"342.470,21",
+            "valor":"342.570,21",
             "id":"2HIJKMNL"
          }
       ]
@@ -33,7 +33,7 @@
          },
          {
             "nombre":"PREMIO ORO",
-            "valor":"2.569,01",
+            "valor":"2.669,01",
             "id":"4OIJKMPU"
          }
       ]
