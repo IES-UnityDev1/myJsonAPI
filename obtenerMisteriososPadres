@@ -6,12 +6,12 @@
       "hijos":[
          {
             "nombre":"DIAMANTE",
-            "valor":"1.902.412,24",
+            "valor":"1.902.413,14",
             "id":"1ABCDEF"
          },
          {
             "nombre":"ORO",
-            "valor":"342.570,21",
+            "valor":"342.521,00",
             "id":"2HIJKMNL"
          }
       ]
@@ -23,7 +23,7 @@
       "hijos":[
          {
             "nombre":"PREMIO DIAMANTE",
-            "valor":"351.522,57",
+            "valor":"351.602,13",
             "id":"1ABGDEV"
          },
          {
@@ -33,7 +33,7 @@
          },
          {
             "nombre":"PREMIO ORO",
-            "valor":"3.671,12",
+            "valor":"5.002,14",
             "id":"4OIJKMPU"
          }
       ]
@@ -45,17 +45,17 @@
       "hijos":[
          {
             "nombre":"PREMIO DIAMANTE",
-            "valor":"151.522,57",
+            "valor":"151.522,27",
             "id":"5IBHDUV"
          },
          {
             "nombre":"PREMIO PLATINO",
-            "valor":"33.701,25",
+            "valor":"33.825,11",
             "id":"5C7P9KL"
          },
          {
             "nombre":"PREMIO ORO",
-            "valor":"675,02",
+            "valor":"715,12",
             "id":"4O1J7MPU"
          }
       ]
