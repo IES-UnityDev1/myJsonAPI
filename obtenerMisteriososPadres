@@ -37,5 +37,27 @@
             "id":"4OIJKMPU"
          }
       ]
+   },
+   {
+      "idPadre":"pojsadasd",
+      "nombrePadre":"MISTERIOSO 2.0",
+      "moneda":"CAD",
+      "hijos":[
+         {
+            "nombre":"PREMIO DIAMANTE",
+            "valor":"151.522,57",
+            "id":"5IBHDUV"
+         },
+         {
+            "nombre":"PREMIO PLATINO",
+            "valor":"33.701,25",
+            "id":"5C7P9KL"
+         },
+         {
+            "nombre":"PREMIO ORO",
+            "valor":"675,02",
+            "id":"4O1J7MPU"
+         }
+      ]
    }
 ]
